@@ -1,0 +1,4 @@
+_version=3.1.0
+repo=tbrd/house-hunt
+files=**,-node_modules/**
+github.token=01b6978ec5eb7ee62133921430f3c65061cfe83b
