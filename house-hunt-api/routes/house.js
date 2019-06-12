@@ -1,7 +1,7 @@
 var express = require('express');
 
 const googleMapsClient = require('@google/maps').createClient({
-  key: 'AIzaSyBNbhozbUURNFlC4F0unsfR30FrxpwU18c',
+  key: '',
   Promise: Promise
 });
 
